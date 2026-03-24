@@ -1,0 +1,3 @@
+IMPLEMENTAÇÕES FUTURAS
+- Score
+- Vidas (Não permitir perder lanches)
